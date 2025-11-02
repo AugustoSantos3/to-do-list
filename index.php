@@ -38,7 +38,7 @@ if (isset($_GET['excluir'])) {
         <h1>📝 Lista de Tarefas</h1>
         <form method="post">
             <input type="text" name="nova_tarefa" placeholder="Digite uma tarefa..." required>
-            <button type="submit">Adicionar</button>
+            <button type="submit">Adicionar Tarefas</button>
         </form>
 
         <ul>
